@@ -1,0 +1,356 @@
+
+    [ 
+        {
+          "title": "Mobile 1",
+          "price": 30,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/248528/pexels-photo-248528.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 2",
+          "price": 110,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 3",
+          "price": 210,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 4",
+          "price": 350,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/914931/pexels-photo-914931.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 5",
+          "price": 330,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/248526/pexels-photo-248526.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 6",
+          "price": 420,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/1542252/pexels-photo-1542252.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 7",
+          "price": 450,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 8",
+          "price": 50,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/257923/pexels-photo-257923.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 9",
+          "price": 200,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Mobile 10",
+          "price": 400,
+          "description": "This Mobile is a sleek and compact smartphone that offers a vibrant display, fast performance, and a range of cutting-edge features. It boasts a high-resolution camera for capturing stunning photos and videos, as well as seamless connectivity to keep you connected on the go.",
+          "image": "https://images.pexels.com/photos/1275929/pexels-photo-1275929.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Mobile"
+        },
+        {
+          "title": "Laptop 1",
+          "price": 40,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/5793953/pexels-photo-5793953.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 2",
+          "price": 50,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/4065876/pexels-photo-4065876.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 3",
+          "price": 150,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/5588490/pexels-photo-5588490.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 4",
+          "price": 200,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 5",
+          "price": 330,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/459653/pexels-photo-459653.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 6",
+          "price": 450,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 7",
+          "price": 220,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/939331/pexels-photo-939331.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 8",
+          "price": 320,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/296115/pexels-photo-296115.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 9",
+          "price": 450,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Laptop 10",
+          "price": 110,
+          "description": "This Laptop is a stylish and portable computer with a high-resolution display, fast performance, and a comfortable keyboard. It's perfect for work and entertainment on the go, offering a balance of form and function.",
+          "image": "https://images.pexels.com/photos/196655/pexels-photo-196655.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Laptop"
+        },
+        {
+          "title": "Drone 1",
+          "price": 20,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/724921/pexels-photo-724921.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 2",
+          "price": 90,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/9443065/pexels-photo-9443065.png?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 3",
+          "price": 290,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/336232/pexels-photo-336232.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 4",
+          "price": 110,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/1506991/pexels-photo-1506991.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 5",
+          "price": 340,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/1034812/pexels-photo-1034812.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 6",
+          "price": 400,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/1087180/pexels-photo-1087180.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 7",
+          "price": 402,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/739410/pexels-photo-739410.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 8",
+          "price": 456,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/744366/pexels-photo-744366.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 9",
+          "price": 230,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/442589/pexels-photo-442589.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Drone 10",
+          "price": 120,
+          "description": "This Drone is a compact and agile aerial device designed for capturing stunning aerial footage and exploring the skies. It features a high-definition camera, easy-to-use controls, and impressive flight capabilities, making it an ideal choice for both photography enthusiasts and hobbyists.",
+          "image": "https://images.pexels.com/photos/1336211/pexels-photo-1336211.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Drone"
+        },
+        {
+          "title": "Camera 1",
+          "price": 59,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/225157/pexels-photo-225157.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 2",
+          "price": 69,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/1264210/pexels-photo-1264210.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 3",
+          "price": 490,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 4",
+          "price": 390,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/821652/pexels-photo-821652.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 5",
+          "price": 234,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/986733/pexels-photo-986733.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 6",
+          "price": 123,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/908430/pexels-photo-908430.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 7",
+          "price": 345,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/442573/pexels-photo-442573.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 8",
+          "price": 444,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/167832/pexels-photo-167832.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 9",
+          "price": 407,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/1561081/pexels-photo-1561081.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "Camera 10",
+          "price": 90,
+          "description": "This Camera is a versatile and compact photography device that excels at capturing high-quality images and videos. With its user-friendly interface, excellent image quality, and portability, it's a top choice for both amateur and professional photographers.",
+          "image": "https://images.pexels.com/photos/1854897/pexels-photo-1854897.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "Camera"
+        },
+        {
+          "title": "HeadPhone 1",
+          "price": 89,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/5939401/pexels-photo-5939401.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 2",
+          "price": 54,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 3",
+          "price": 390,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/3394666/pexels-photo-3394666.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 4",
+          "price": 490,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/815494/pexels-photo-815494.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 5",
+          "price": 200,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 6",
+          "price": 150,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/3394665/pexels-photo-3394665.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 7",
+          "price": 320,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/844923/pexels-photo-844923.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+        {
+          "title": "HeadPhone 8",
+          "price": 439,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/377711/pexels-photo-377711.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+      
+        {
+          "title": "HeadPhone 9",
+          "price": 439,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/164710/pexels-photo-164710.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        },
+      
+        {
+          "title": "HeadPhone 10",
+          "price": 324,
+          "description": "This Headphones are a stylish and high-quality audio accessory designed for immersive sound experiences. They offer crisp audio, comfortable fit, and a sleek design, making them an ideal choice for music enthusiasts and audio aficionados.",
+          "image": "https://images.pexels.com/photos/159472/headphones-instagram-video-games-razer-159472.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "category": "HeadPhone"
+        }
+      ]
+  
